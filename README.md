@@ -12,6 +12,8 @@ model.py: replace file in BranchNet/src/branchnet
 
 create_ml_datasets.py: replace file in BranchNet/bin
 
+folder pintool: files under that folder are used for generating trace file by pintool
+
 
 
 If you have any questions, feel free to contact us.
